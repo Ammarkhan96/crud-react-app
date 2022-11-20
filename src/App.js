@@ -63,9 +63,9 @@ function App() {
         />
 
         {editMode ?
-        <button className='btn' onClick={updateItem}>Update</button>
+        <button className='bttn' onClick={updateItem}>Update</button>
         :
-        <button className='btn' onClick={addItem}>Add</button>
+        <button className='bttn' onClick={addItem}>Add</button>
         }
 
 
