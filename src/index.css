@@ -6,7 +6,7 @@
   }
   
   
-  .btn {
+  .bttn {
     border-radius: 8px;
     cursor: pointer;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -20,7 +20,7 @@
    font-size: medium;
   }
   
-  .btn:hover {
+  .bttn:hover {
     background-color: #DC7633 ;
   }
   
