@@ -1,0 +1,49 @@
+
+.main-heading {
+    font-family: sans-serif;
+   
+    color: #F2F3F4;
+  }
+  
+  
+  .btn {
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #F5B041 ;
+    color: black;
+    font-weight: 700;
+    margin-top: 12px;
+    height: 5vh;
+    width: 7%;
+    border-color: #F5B041;
+   font-size: medium;
+  }
+  
+  .btn:hover {
+    background-color: #DC7633 ;
+  }
+  
+  .input {
+    width: 17%;
+    background-color: #FAE5D3;
+    height: 5vh; 
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+  }
+  
+  .btnn {
+    border-radius: 9px;
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #F5B041 ;
+    color: black;
+    font-size: medium;
+    font-weight: 700;
+    margin-top: 12px;
+    height: 5vh;
+    width: 5vw;
+    border-color: #F5B041;
+  }
+  
